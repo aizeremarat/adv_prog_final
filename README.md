@@ -1,7 +1,13 @@
 **Automatic Number Plate Recognition System**
 
 This project aims to provide a comprehensive Automatic Number Plate Recognition (ANPR) solution utilizing computer vision and machine learning techniques. The system is capable of accurately detecting and recognizing license plates from images and video streams.
-
+**Github Links**:
+The machine learning part for desktop file is in pts_easyocr_desktop.ipynb, for web application is located in file called ai.py
+https://github.com/aizeremarat/adv_prog_final.git
+https://github.com/rnbsrva/adv_prog_final
+https://github.com/youngAndMad/adv_prog_final.git
+**Video Link:** 
+[ANPR Project Demonstration](https://www.youtube.com/watch?v=QTaQb_E58HM)
 **Requirements:**
 
 - Python 3.x
@@ -25,11 +31,5 @@ This project aims to provide a comprehensive Automatic Number Plate Recognition 
 ```python
 import cv2 pytesseract re os easyocr
 
-**Github Links**:
-The machine learning part for desktop file is in pts_easyocr_desktop.ipynb, for web application is located in file called ai.py
-https://github.com/aizeremarat/adv_prog_final.git
-https://github.com/rnbsrva/adv_prog_final
-https://github.com/youngAndMad/adv_prog_final.git
-**Video Link:** 
-[ANPR Project Demonstration](https://www.youtube.com/watch?v=QTaQb_E58HM)
+
 
